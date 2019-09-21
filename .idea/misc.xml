@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="f18dbf3a-b248-48b3-be3f-556b46025607" />
+      <option name="name" value="f18dbf3a-b248-48b3-be3f-556b46025607" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="fd56f748-f346-437c-80d8-9deb8d1adee3" />
+      <option name="name" value="fd56f748-f346-437c-80d8-9deb8d1adee3" />
+      <option name="url" value="http://maven.oschina.net/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="eb0612c2-974c-4d63-b7ff-f79223764910" />
+      <option name="name" value="eb0612c2-974c-4d63-b7ff-f79223764910" />
+      <option name="url" value="http://uk.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bdc85551-f4d4-45c7-85ca-e916cdef719e" />
+      <option name="name" value="bdc85551-f4d4-45c7-85ca-e916cdef719e" />
+      <option name="url" value="http://mirrors.ibiblio.org/pub/mirrors/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="4d4c9982-bab8-4063-8079-f9db58b09a83" />
+      <option name="name" value="4d4c9982-bab8-4063-8079-f9db58b09a83" />
+      <option name="url" value="http://uk.maven.org/maven2/" />
+    </remote-repository>
+  </component>
+</project>
